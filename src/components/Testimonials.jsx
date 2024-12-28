@@ -2,7 +2,7 @@ import React from 'react'
 import { assets, testimonialsData } from '../assets/assets'
 function Testimonials() {
   return (
-    <div className='container mx-auto w-full py-10 lg:px-32 overflow-hidden' id='testimonials'> 
+    <div className='container mx-auto w-full py-10 lg:px-32 overflow-hidden' id='testtymonials'> 
         <h1 className='text-2xl text-center md:text-4xl mb-2 font-bold'>Customer <span className='underline underline-offset-4 decoration-1 under font-light'>Testimonials</span></h1>
         <p className='max-w-80 text-gray-400 mx-auto text-center mb-12'>Real Stories from Thos Who found Home with us</p>
         <div className='flex justify-center gap-10 flex-wrap px-10 py-10'>
